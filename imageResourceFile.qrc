@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>content/FinViewBottom.qml</file>
+        <file>content/FinViewTop.qml</file>
+    </qresource>
+</RCC>
